@@ -1,33 +1,83 @@
-# Contributing
 
-Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
 
-<!-- Please note that this project is released with a [Contrivutor Code of Conduct][code-of-conduct]. By participating in this project you agree to abide by its terms. -->
+# Contribution Guidelines 👨‍🏫🏗
+Are we missing any of your favorite modules, which you think you can add to it? We invite you to contribute to this project and make it better.
+To start contributing, follow the below guidelines.
 
-## Issues and PRs
+## Step 1: Find a issue
+- Take a look at the Existing Issues or create your **own** Issues!
+- Wait for the Issue to be assigned to you after which you can start working on it.
+- Note : Every change in this project should/must have an associated issue. 
 
-If you have any suggestions on how this project may be improved, or if you want to report a bug, please open an issue! We welcome any and all contributions. If you have any queries, we'd love to hear them.
+<p align="center"><img src="https://user-images.githubusercontent.com/78534043/193002886-e85eb8dc-9d10-4b34-9a78-5214a4e26f7d.png" width=65%></p>
 
-If you're thinking of large PR, we recommend opening up an issue to discuss first! If you're not sure how to open a PR, check out the below links.
+## Step 2: Fork the Project
+- Fork this Repository. This will create Local Copy of this Repository on your Github Profile. Keep a reference to the original project in upstream remote.
+```
+$ git clone https://github.com/<your-username>/LearnCPP
+$ cd LearnCPP
+$ git remote add upstream https://github.com/Lakhankumawat/LearnCPP
+```
 
-## Submitting a Pull Request
+<p align = "center"><img src="https://user-images.githubusercontent.com/78534043/193021627-316ca69d-3daf-47c5-96f0-e63e11b31d53.png" width=60%/> </p>
 
-1. <a href="https://github.com/R-Ayush777/npmBox/fork">Fork</a> and clone the repository.
-2. Configure and install dependencies.
-3. Make sure the tests pass on your machine.
-4. Make your change, and tests, and make sure the tests still pass.
-5. Push to your fork and submit a pull request.
-6. Put your self on the back and wait for your pull request to be reviewed and merged.
-   
-Here are a few things you can do to improve the chances of your pull request being accepted:
 
-- Follow the style which is using standard.
-- Write and update tests.
-- Keep your changes as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, consider submitting them as separate pull requests.
-- Write a [good commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
+- If you have already forked the project, update your copy before working.
+```
+$ git remote update
+$ git checkout <branch-name>
+$ git rebase upstream/<branch-name>
+```
 
-Work in Progress pull requests are also welcome to get feedback early on, or if there is something blocked you.
+
+## Step 3 : Branch
+Create a new branch. Use its name to identify the issue your addressing (i.e. npm package name/Module that you are working for).
+```
+# It will create a new branch with name Branch_Name and switch to that branch 
+$ git checkout -b branch_name
+```
+## Step 4 : Work on the issue assigned
+- Work on the issue(s) assigned to you. 
+- Add all the files/folders needed.
+- After you've made changes or made your contribution to the project add changes to the branch you've just created by:
+```
+# To add all new files to branch Branch_Name
+$ git add .
+```
+## Step 5 : Commit
+
+ 🎀🎀Before submitting an issue please find the correct folder where your program will go , You can discuss about it in the discussion.
+ 
+- To commit give a descriptive message for the convenience of reveiwer by:
+```
+# This message get associated with all files you have changed
+$ git commit -m "message"
+```
+- **NOTE**: A PR should have only one commit. Multiple commits should be squashed.
+## Step 6 : Work Remotely
+- Now you are ready to your work to the remote repository.
+- When your work is ready and complies with the project conventions, upload your changes to your fork:
+
+```
+# To push your work to your remote repository
+$ git push -u origin Branch_Name
+```
+
+## Step 7 : Pull Request
+- Go to your repository in browser and click on compare and pull requests. Then add a title and description to your pull request that explains your contribution.
+
+- Voila! Your Pull Request has been submitted and will be reviewed by the moderators and merged.🥳
 
 <br>
 
-<hr>
+## Need more help?🤔
+You can refer to the following articles on basics of Git and Github and also contact the Project Mentors, in case you are stuck:
+- [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
+- [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-an-issue-or-pull-request)
+- [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
+- [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
+- [Learn GitHub from Scratch](https://lab.github.com/githubtraining/introduction-to-github)
+
+
+## Tip from us😇
+It always takes time to understand and learn. So, do not worry at all. We know **you have got this**!💪
