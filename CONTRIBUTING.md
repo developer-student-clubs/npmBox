@@ -17,12 +17,12 @@ If you're thinking of large PR, we recommend opening up an issue to discuss firs
 3. Make sure the tests pass on your machine.
 4. Make your change, and tests, and make sure the tests still pass.
 5. Push to your fork and submit a pull request.
-6. Pat your self on the back and wait for your pull request to be reviewwd and merged.
+6. Put your self on the back and wait for your pull request to be reviewed and merged.
    
 Here are a few things you can do to improve the chances of your pull request being accepted:
 
 - Follow the style which is using standard.
-- Wriet and update tests.
+- Write and update tests.
 - Keep your changes as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, consider submitting them as separate pull requests.
 - Write a [good commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
 
