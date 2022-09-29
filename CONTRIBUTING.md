@@ -1,8 +1,11 @@
 
 
 # Contribution Guidelines 👨‍🏫🏗
-Are we missing any of your favorite modules, which you think you can add to it? We invite you to contribute to this project and make it better.
-To start contributing, follow the below guidelines.
+
+This documentation contains a set of guidelines to help you during the contribution process. We are happy to welcome all the contributions from anyone willing to improve/add new scripts to this project. Thank you for helping out and remember, no contribution is too small.
+
+`Are we missing any of your favorite modules, which you think you can add to it? We invite you to contribute to this project and make it better.
+To start contributing, follow the below guidelines.`
 
 ## Step 1: Find a issue
 - Take a look at the Existing Issues or create your **own** Issues!
