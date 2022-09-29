@@ -9,3 +9,13 @@ Hi there! We're thrilled that you'd like to contribute to this project. Your hel
 If you have any suggestions on how this project may be improved, or if you want to report a bug, please open an issue! We welcome any and all contributions. If you have any queries, we'd love to hear them.
 
 If you're planning a huge PR, we recommend opening up an issue first to talkabout it, to discuss first! If you're not sure how to open a PR, check out the below links.
+
+## Submitting a Pull Request
+
+1. [Fork][fork] and clone the repository.
+2. Configure and install dependencies.
+3. Make sure the tests pass on your machine.
+4. Make your change, and tests, and make sure the tests still pass.
+5. Push to your fork and submit a pull request.
+6. Pat your self on the back and wait for your pull request to be reviewwd and merged.
+   
