@@ -12,7 +12,7 @@ If you're planning a huge PR, we recommend opening up an issue first to talkabou
 
 ## Submitting a Pull Request
 
-1. [Fork][fork] and clone the repository.
+1. <a href="https://github.com/R-Ayush777/npmBox/fork">Fork</a> and clone the repository.
 2. Configure and install dependencies.
 3. Make sure the tests pass on your machine.
 4. Make your change, and tests, and make sure the tests still pass.
