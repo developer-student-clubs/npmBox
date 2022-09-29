@@ -20,3 +20,10 @@ If you're planning a huge PR, we recommend opening up an issue first to talkabou
 6. Pat your self on the back and wait for your pull request to be reviewwd and merged.
    
 Here are a few things you can do to improve the chances of your pull request being accepted:
+
+- Follow the style which is using standard.
+- Wriet and update tests.
+- Keep your changes as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, consider submitting them as separate pull requests.
+- Write a [good commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
+
+Work in Progress pull requests are also welcome to get feedback early on, or if there is something blocked you.
