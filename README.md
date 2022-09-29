@@ -3,7 +3,6 @@
 <br>
 
 ## Overview
-<hr>
 
 This repository contains/will contains various npm modules that you can tweak according to your needs ans use them in your projects.
 
