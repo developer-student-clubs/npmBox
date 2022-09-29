@@ -19,3 +19,4 @@ If you're planning a huge PR, we recommend opening up an issue first to talkabou
 5. Push to your fork and submit a pull request.
 6. Pat your self on the back and wait for your pull request to be reviewwd and merged.
    
+Here are a few things you can do to improve the chances of your pull request being accepted:
