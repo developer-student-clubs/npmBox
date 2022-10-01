@@ -3,7 +3,7 @@
 <img  align="left" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LakhanKumawat&repo=LearnCPP&countColorcountColor&countColor=%237B1E7B"/><img align="right" src="https://img.shields.io/github/repo-size/R-Ayush777/npmBox?style=for-the-badge&logo=appveyor" alt="GitHub repo size"/>
 <img align="right" alt="LearnCPP"  src="https://socialify.git.ci/R-Ayush777/npmBox/image?description=1&font=Bitter&forks=1&issues=1&language=1&logo=https%3A%2F%2Fgithub.com%2FLakhankumawat%2FPoP-UP-Window%2Fblob%2Fmaster%2FUntitled%2520design.png%3Fraw%3Dtrue&name=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" />
 
-<br>
+<br/><br/>
 
 ## Overview
 
