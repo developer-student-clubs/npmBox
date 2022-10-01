@@ -79,7 +79,7 @@ ___Note:___ Before making any modifications, be sure to install all essential pa
 
 - Create new Folder with you package/module name `<name of package>`
 - Add file with name of file package name `<name of package>.js`. ___if it contains multiple file then main file should be name as above.___
-- Adde README.md file which conatsins Add all neccessary information like functionalities, use-cases, code snippets tc. in the README.md file. 
+- Adde README.md file which conatsins Add all neccessary information like functionalities, use-cases, code snippets etc. in the README.md file. 
 
 
 **9.** Track your changes:heavy_check_mark: .
