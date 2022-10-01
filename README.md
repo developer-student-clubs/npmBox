@@ -9,7 +9,17 @@
 
 This repository contains/will contains various npm modules that you can tweak according to your needs ans use them in your projects. Our objective is to create the largest collection of npm packages with proper documentation.
 
-<p align="center"><img src="https://user-images.githubusercontent.com/78534043/192937053-a3345951-b607-4cd3-a05d-21ca9915955c.jpg" width = 50%></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/78534043/192937053-a3345951-b607-4cd3-a05d-21ca9915955c.jpg"  width = 40% height = 150></p>
+
+
+<div align="center">
+
+<a><img src="https://img.shields.io/github/issues/R-Ayush777/npmBox?color=orange&style=for-the-badge"/></a>
+<a><img src="https://img.shields.io/github/issues-pr/R-Ayush777/npmBox?color=yellow&style=for-the-badge"></a>
+<a href="https://github.com/R-Ayush777/npmBox/network/members"><img src="https://img.shields.io/github/forks/R-Ayush777/npmBox?style=for-the-badge" alt="Forks"/></a>
+<a href="https://github.com/R-Ayush777/npmBox"><img src="https://img.shields.io/github/stars/R-Ayush777/npmBox?style=for-the-badge" alt="Stars"/></a>
+<a href="https://github.com/R-Ayush777/npmBox/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/R-Ayush777/npmBox?color=green&style=for-the-badge"></a>
+</div>
 
 
 <br/>
