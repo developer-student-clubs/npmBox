@@ -24,11 +24,16 @@ This repository contains/will contains various npm modules that you can tweak ac
 
 <br/>
 
+## Want to contribute?
+- Take a look at [`contributing guidelines`](Contributing.md) if you're interested in helping!
+- Refer [GitHub Flow](https://guides.github.com/introduction/flow). 
+
 ## Contribution is fun! 💙
 
 In order to make a hassle-free environment, I implore you all (while contributing) to follow the instructions mentioned below!
 
 Happy Submissions 🙂
+
 
 ## Contribution Guidelines 🏗
 
