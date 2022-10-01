@@ -67,7 +67,7 @@ ___Note:___ Before making any modifications, be sure to install all essential pa
 
 - Create new Folder with you package/module name `<name of package>`
 - Add file with name of file package name `<name of package>.js`. ___if it contains multiple file then main file should be name as above.___
-- Adde README.md file which conatsins Add all neccessary information like functionalities, use-cases, code-snippets,e tc. in the README.md file. 
+- Adde README.md file which conatsins Add all neccessary information like functionalities, use-cases, code snippets tc. in the README.md file. 
 
 
 **9.** Track your changes:heavy_check_mark: .
@@ -105,7 +105,9 @@ For further details, click on [CONTRIBUTING.md](https://github.com/R-Ayush777/np
 
 
 
-## Our valuable Contributors 👩‍💻👨‍💻 :
+## Our valuable Contributors 👩‍💻🌟👨‍💻 :
+Thanks goes to these wonderful people
+
 <div align="center">
 <a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=R-Ayush777/npmBox"/>
