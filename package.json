@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/R-Ayush777/npmBox/issues"
   },
-  "homepage": "https://github.com/R-Ayush777/npmBox#readme"
+  "homepage": "https://github.com/R-Ayush777/npmBox#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
 }
