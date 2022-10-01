@@ -104,12 +104,16 @@ git push -u origin <your_branch_name>
 For further details, click on [CONTRIBUTING.md](https://github.com/R-Ayush777/npmBox/blob/master/CONTRIBUTING.md)
 
 
+## Code of Conduct
+
+To maintain a safe and inclusive space for everyone to learn and grow, contributors are advised to follow the [Code of Conduct](https://github.com/R-Ayush777/npmBox/blob/master/CODE_OF_CONDUCT.md). 
+
 
 ## Our valuable Contributors 👩‍💻🌟👨‍💻 :
 Thanks goes to these wonderful people
 
 <div align="center">
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+<a href = "https://github.com/R-Ayush777/npmBox/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=R-Ayush777/npmBox"/>
 </a>
 </div>
