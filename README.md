@@ -1,4 +1,4 @@
-# npmBox 📦
+<h1 align="center">npmBox 📦</h1>
 
 <br>
 
@@ -61,6 +61,14 @@ git checkout -b <your_branch_name>
 ```
 
 **8.** Perfom your desired changes to the code base.
+___Note:___ Before making any modifications, be sure to install all essential packages with the `npm install` command.
+
+***If You adding new package***
+
+- Create new Folder with you package/module name `<name of package>`
+- Add file with name of file package name `<name of package>.js`. ___if it contains multiple file then main file should be name as above.___
+- Adde README.md file which conatsins Add all neccessary information like functionalities, use-cases, code-snippets,e tc. in the README.md file. 
+
 
 **9.** Track your changes:heavy_check_mark: .
 
@@ -87,9 +95,9 @@ git push -u origin <your_branch_name>
 **14.** Click on `Create Pull Request`.
 
 
-**15.** Voila :exclamation: You have made a PR to the Awesome-Chrome-Extensions :boom: . Wait for your submission to be accepted and your PR to be merged.
+**15.** Voila :exclamation: You have made a PR to the npmBox :boom: . Wait for your submission to be accepted and your PR to be merged.
 
-**16.** **Congratulations!** You've made your first contribution! 🙌🏼
+**16.** **Congratulations!** You've made your first contribution! 🙌
 
 
 ## All the best! 🥇
