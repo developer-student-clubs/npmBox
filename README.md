@@ -28,12 +28,6 @@ This repository contains/will contains various npm modules that you can tweak ac
 - Take a look at [`contributing guidelines`](Contributing.md) if you're interested in helping!
 - Refer [GitHub Flow](https://guides.github.com/introduction/flow). 
 
-## Contribution is fun! 💙
-
-In order to make a hassle-free environment, I implore you all (while contributing) to follow the instructions mentioned below!
-
-Happy Submissions 🙂
-
 
 ## Contribution Guidelines 🏗
 
@@ -121,6 +115,13 @@ git push -u origin <your_branch_name>
 ## All the best! 🥇
 For further details, click on [CONTRIBUTING.md](https://github.com/R-Ayush777/npmBox/blob/master/CONTRIBUTING.md)
 
+## Contribution is fun! 💙
+
+In order to make a hassle-free environment, I implore you all (while contributing) to follow the instructions mentioned above!
+
+Happy Submissions 🙂
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 ## Code of Conduct
 
