@@ -6,7 +6,7 @@
 * Moment JS allows displaying of date as per localization and in human readable format. You can use Moment JS inside a browser using the script methos . It is also  available with Node.js and can be installed using NPM.
 
 ## Install:
-* We can install moment from [MomentJS]("https://momentjs.com")
+* We can install moment from [MomentJS](https://momentjs.com)
 * We can use moment in node JS and in browser as well
 
 ## Feature of Moment:-
@@ -44,4 +44,4 @@
 |seconds | s|
 |milliseconds |ms|
 
-*   For more information visit [Moment documentation]("https://momentjs.com/docs/")
+*   For more information visit [Moment documentation](https://momentjs.com/docs/)
