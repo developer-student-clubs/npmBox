@@ -29,6 +29,7 @@ So, What are you waiting for? 😏
 | No  | Name of Package     |
 | --- | ------------------- |
 | 1   | [Moment](./Moment/) |
+| 2   | [Uid](./Uid/)
 
 
 <br/>
