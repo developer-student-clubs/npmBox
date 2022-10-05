@@ -7,7 +7,7 @@
 ## Install:
 * We can install `uid` from [npm](https://www.npmjs.com/package/uid)
 
-## Feature of Moment:-
+## Feature of Uid:-
 
 * You can see all the example of each and every feature in the sample code of uid.
 * uid offers following 3 modes for generating randomized ids
