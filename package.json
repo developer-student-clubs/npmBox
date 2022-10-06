@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/R-Ayush777/npmBox#readme",
   "dependencies": {
-    "moment": "^2.29.4"
+    "moment": "^2.29.4",
+    "uid": "^2.0.1"
   }
 }
