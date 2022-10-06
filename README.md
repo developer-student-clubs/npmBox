@@ -123,7 +123,7 @@ git push -u origin <your_branch_name>
 
 
 ## All the best! 🥇
-For further details, click on [CONTRIBUTING.md](https://github.com/R-Ayush777/npmBox/blob/master/CONTRIBUTING.md)
+For further details, click on [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## Contribution is fun! 💙
 
