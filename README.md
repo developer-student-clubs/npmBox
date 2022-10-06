@@ -26,10 +26,10 @@ So, What are you waiting for? 😏
 <br/>
 
 # npm Packages List 📃
-| No  | Name of Package     |
-| --- | ------------------- |
-| 1   | [Moment](./Moment/) |
-| 2   | [Uid](./Uid/)
+| No  | Name of Package     | |
+| --- | ------------------- | -- |
+| 1   | [Moment](./Moment/) | ✅ |
+| 2   | [Uid](./Uid/) | ✅ |
 
 
 <br/>
