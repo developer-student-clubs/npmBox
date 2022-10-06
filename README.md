@@ -143,7 +143,9 @@ To maintain a safe and inclusive space for everyone to learn and grow, contribut
 Thanks goes to these wonderful people
 
 <div align="center">
-<a href = "https://github.com/R-Ayush777/npmBox/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=R-Ayush777/npmBox"/>
+<a href="https://github.com/developer-student-clubs/npmBox/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=developer-student-clubs/npmBox" />
 </a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 </div>
