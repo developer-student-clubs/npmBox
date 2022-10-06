@@ -147,5 +147,5 @@ Thanks goes to these wonderful people
   <img src="https://contrib.rocks/image?repo=developer-student-clubs/npmBox" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
+<!-- Made with [contrib.rocks](https://contrib.rocks). -->
 </div>
