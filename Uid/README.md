@@ -5,10 +5,13 @@
 
 
 ## Install:
+* We can install uid from terminal using the command `npm install uid` or,
 * We can install `uid` from [npm](https://www.npmjs.com/package/uid)
 
 ## Feature of Uid:-
-
+* `uid` and `uid/secure` are faster than its alternatives.
+* Instead of using single characters, it creates an output using hexadecimal pairs (from a cached dictionary).
+* It allocates a large Buffer/ArrayBuffer up front and uses small chunks from that as needed.
 * You can see all the example of each and every feature in the sample code of uid.
 * uid offers following 3 modes for generating randomized ids
 
