@@ -3,7 +3,7 @@
 
 ## Proposed Changes
 - Change 1
-- Chnage 2
+- Change 2
 
 ## Additional Info
 - Any additional information or context
@@ -38,6 +38,8 @@
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to change)
+
+<!-- Optional (If required provide screenshot) -->
 
 <!-- ## Output Screenshots
 | Screenshot #1      | Screenshot #2  |
