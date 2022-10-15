@@ -5,7 +5,7 @@
 
 ## Install:
 * We can install uid from terminal using the command `npm install validator` or,
-* We can install `uid` from [npm](https://www.npmjs.com/package/validator)
+* We can install `validator` from [npm](https://www.npmjs.com/package/validator)
 
 ## Feature of Validator:-
 * It is easy to get started and easy to use.
