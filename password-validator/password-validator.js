@@ -1,3 +1,4 @@
+var validator = require('validator');
 var passwordValidator = require('password-validator');
 
 const schema = new passwordValidator();
@@ -50,10 +51,6 @@ schema.not().uppercase(8, 'maximum 8 chars in CAPS please')
 
 
 //plugins
-
-var validator = require('validator');
-var passwordValidator = require('password-validator');
-
 var pschema = new passwordValidator()
     .min(3, 'Password too small')
     .usingPlugin(validator.isEmail, 'Password should be an email');
