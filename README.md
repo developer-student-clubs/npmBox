@@ -34,6 +34,7 @@ No  | Name of Package
 3 | [Validator](./Validator/)
 4 | [NodeMailer](./nodeMailer)
 5 | [Password-Validator](./password-validator)
+6 | [magic-string](./magic-string/)
 
 
 <br/>
