@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/R-Ayush777/npmBox#readme",
   "dependencies": {
-    "moment": "^2.29.4"
+    "express": "^4.18.2",
+    "magic-string": "^0.26.7",
+    "moment": "^2.29.4",
+    "uid": "^2.0.1",
+    "validator": "^13.7.0"
   }
 }

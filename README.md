@@ -10,7 +10,7 @@
 This repository contains/will contains various npm modules that you can tweak according to your needs ans use them in your projects. Our objective is to create the largest collection of npm packages with proper documentation.
 So, What are you waiting for? 😏
 
-<p align="center"><img src="https://user-images.githubusercontent.com/78534043/192937053-a3345951-b607-4cd3-a05d-21ca9915955c.jpg"  width = 40%></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/78534043/192937053-a3345951-b607-4cd3-a05d-21ca9915955c.jpg"  width=40%></p>
 
 
 <div align="center">
@@ -25,10 +25,16 @@ So, What are you waiting for? 😏
 
 <br/>
 
-# npm Packages List 📃
-| No  | Name of Package     |
-| --- | ------------------- |
-| 1   | [Moment](./Moment/) |
+# npm Packages List 🗃
+
+No  | Name of Package 
+--- | ------------------- 
+1 | [Moment](./Moment/) 
+2 | [Uid](./Uid/) 
+3 | [Validator](./Validator/)
+4 | [NodeMailer](./nodeMailer)
+5 | [Password-Validator](./password-validator)
+6 | [magic-string](./magic-string/)
 
 
 <br/>
@@ -72,7 +78,7 @@ git remote -v
 **6.** Always take a pull from the upstream repository to your master branch to keep it at par with the main project(updated repository).
 
 ```
-git pull upstream main
+git pull upstream master
 ```
 
 **7.** Create a new branch.
@@ -122,7 +128,7 @@ git push -u origin <your_branch_name>
 
 
 ## All the best! 🥇
-For further details, click on [CONTRIBUTING.md](https://github.com/R-Ayush777/npmBox/blob/master/CONTRIBUTING.md)
+For further details, click on [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## Contribution is fun! 💙
 
@@ -141,7 +147,9 @@ To maintain a safe and inclusive space for everyone to learn and grow, contribut
 Thanks goes to these wonderful people
 
 <div align="center">
-<a href = "https://github.com/R-Ayush777/npmBox/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=R-Ayush777/npmBox"/>
+<a href="https://github.com/developer-student-clubs/npmBox/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=developer-student-clubs/npmBox" />
 </a>
+
+<!-- Made with [contrib.rocks](https://contrib.rocks). -->
 </div>
