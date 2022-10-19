@@ -35,6 +35,8 @@ No  | Name of Package
 4 | [NodeMailer](./nodeMailer)
 5 | [Password-Validator](./password-validator)
 6 | [magic-string](./magic-string/)
+7 | [Bcrypt](./Bcrypt)
+8 | [Express](./Router)
 
 
 <br/>
