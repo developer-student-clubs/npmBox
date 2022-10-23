@@ -8,10 +8,13 @@
 
 
 This repository contains/will contains various npm modules that you can tweak according to your needs ans use them in your projects. Our objective is to create the largest collection of npm packages with proper documentation.
-So, What are you waiting for? 🤔
+So, What are you waiting for? 😏
 
 <!-- <p align="center"><img src="https://user-images.githubusercontent.com/78534043/192937053-a3345951-b607-4cd3-a05d-21ca9915955c.jpg"  width=40%></p> -->
-<p align="center"><img src="https://user-images.githubusercontent.com/78534043/197372102-75dbdc9a-3079-441e-adde-603f03bdcf60.png"  width=60%></p>
+
+<center>
+<img src="https://user-images.githubusercontent.com/78534043/197372102-75dbdc9a-3079-441e-adde-603f03bdcf60.png"  width=60%/>
+</center>
 
 <div align="center">
 
@@ -27,17 +30,17 @@ So, What are you waiting for? 🤔
 
 # npm Packages List 🗃
 
-No  | Name of Package 
---- | ------------------- 
-1 | [Moment](./Moment/) 
-2 | [Uid](./Uid/) 
-3 | [Validator](./Validator/)
-4 | [NodeMailer](./nodeMailer)
-5 | [Password-Validator](./password-validator)
-6 | [magic-string](./magic-string/)
-7 | [Bcrypt](./Bcrypt)
-8 | [Express](./Router)
-9 | [ora](./ora)
+| No  | Name of Package                            |
+| --- | ------------------------------------------ |
+| 1   | [Moment](./Moment/)                        |
+| 2   | [Uid](./Uid/)                              |
+| 3   | [Validator](./Validator/)                  |
+| 4   | [NodeMailer](./nodeMailer)                 |
+| 5   | [Password-Validator](./password-validator) |
+| 6   | [magic-string](./magic-string/)            |
+| 7   | [Bcrypt](./Bcrypt)                         |
+| 8   | [Express](./Router)                        |
+| 9   | [ora](./ora)                               |
 
 
 <br/>
