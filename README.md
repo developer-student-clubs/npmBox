@@ -44,7 +44,7 @@ So, What are you waiting for? 🤔
 | 8   | [Express](./Router)                        |
 | 9   | [ora](./ora)                               |
 | 10  | [Express](./Express/)
-| 11   | [browserify](./modules)                   |
+| 11   | [browserify](./browserify)                   |
 
 <br/>
 
