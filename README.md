@@ -43,7 +43,7 @@ So, What are you waiting for? 🤔
 | 7   | [Bcrypt](./Bcrypt)                         |
 | 8   | [Express](./Router)                        |
 | 9   | [ora](./ora)                               |
-| 10  | [Express](./Express/)
+| 10  | [Express](./Express/) 
 
 <br/>
 
