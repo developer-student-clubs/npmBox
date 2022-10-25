@@ -43,9 +43,11 @@ So, What are you waiting for? 🤔
 | 7   | [Bcrypt](./Bcrypt)                         |
 | 8   | [Express](./Router)                        |
 | 9   | [ora](./ora)                               |
-| 10  | [Express](./Express/)                      |
-| 11  | [browserify](./browserify)                 |
-| 12  | [debug](./debug)                           |
+| 10  | [Express](./Express/)
+| 11   | [browserify](./browserify)                   |
+| 12   | [Async](./Async)                             |
+| 13 | [Debug](./debug) |
+
 
 <br/>
 
