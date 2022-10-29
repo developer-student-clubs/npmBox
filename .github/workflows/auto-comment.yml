@@ -1,0 +1,16 @@
+name: Auto Comment
+on: [issues, pull_request]
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: wow-actions/auto-comment@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          issuesOpened: |
+            Hello 👋 @{{ author }}, thanks for creating issue at npmBox, hope you followed the guidelines.
+
+          pullRequestOpened: |
+            👋 @{{ author }}
+            Thank you for making PR at npmBox.
+            Please make sure you have followed our contributing guidelines. Our mentors will review it soon.
