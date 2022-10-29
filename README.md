@@ -58,7 +58,8 @@ So, What are you waiting for? 🤔
 | 22 | [Mongoose](./mongoose/) |
 | 23 | [Morgan](./morgan/) |
 | 24 | [Grunt](./Grunt/) |
-
+| 25 | [Socket](./socket/)|
+| 26 | [Router](./Router/)|
 
 <br/>
 
