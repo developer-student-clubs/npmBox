@@ -1,33 +1,62 @@
+// importing chalk module
 import chalk from 'chalk';
+// or
+// const chalk = require('chalk');
 
 const log = console.log;
 
-// Combine styled and normal strings
+// We can combine style with normal string
 log(chalk.blue('Hello') + ' World' + chalk.red('!'));
 
 // Compose multiple styles using the chainable API
-log(chalk.blue.bgRed.bold('Hello world!'));
+log(chalk.blue.bgYellowBright.bold('Hello Guys!'));
 
-// Pass in multiple arguments
-log(chalk.blue('Hello', 'World!', 'Foo', 'bar', 'biz', 'baz'));
+// We can pass multiple arguments to chalk() and it will handle it correctly
+log(chalk.blue('Dharmesh','Poriya'));
 
-// Nest styles
-log(chalk.red('Hello', chalk.underline.bgBlue('world') + '!'));
-
-// Nest styles of the same type even (color, underline, background)
-log(chalk.green(
+// nest styles of the same type even (color, underline, background)
+log(chalk.red('Hello', chalk.underline.bgGreenBright('Friends') + '!'));
+log(chalk.blue(
 	'I am a green line ' +
-	chalk.blue.underline.bold('with a blue substring') +
+	chalk.yellow.underline.bold('with a yellow substring') +
 	' that becomes green again!'
 ));
 
 // ES2015 template literal
-log(`
-CPU: ${chalk.red('90%')}
-RAM: ${chalk.green('40%')}
-DISK: ${chalk.yellow('70%')}
-`);
+let desk = {
+	CPU: '90%',
+	RAM: '40%',
+	DISK: '70%'
+}
+log(chalk.green.bgWhite(`
+CPU: {red ${desk.CPU}}
+RAM: {green ${desk.RAM}}
+DISK: {blue ${desk.DISK}}
+`));
 
-// Use RGB colors in terminal emulators that support it.
+
+// We can also use rgb() and hsl() to specify colors
+// log(chalk.keyword('orange')('boom!! orange colored text'));
 log(chalk.rgb(123, 45, 67).underline('Underlined reddish color'));
 log(chalk.hex('#DEADED').bold('Bold gray!'));
+
+// We can also define our own theme
+
+const success = chalk.green;
+const error = chalk.bold.red;
+const warning = chalk.yellowBright;
+
+console.log(error('Error!'));
+console.log(warning('Warning!'));
+
+const name = 'Dharmesh Poriya';
+// here %s is a placeholder for name
+console.log(chalk.green('Hello %s'), name);
+
+// tagged template literal
+// use of tagged template literal is to pass a function as a first argument to a template literal
+// here chalk is a function and we are passing it as a first argument to template literal
+const miles = 18;
+const calculateFeet = miles => miles * 5280;
+
+console.log(chalk.green.bold(calculateFeet(miles)));

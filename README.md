@@ -48,7 +48,18 @@ So, What are you waiting for? 🤔
 | 12   | [Async](./Async)                             |
 | 13 | [Debug](./debug) |
 | 14 | [File-System](./File-System/) |
-
+| 15 | [Cloudinary](./Cloudinary/) |
+| 16 | [Fastify](./Fastify/) |
+| 17 | [Lodash](./Lodash/) |
+| 18 | [URL](./URL/) |
+| 19 | [Axios](./axios/) |
+| 20 | [Chalk](./chalk/) |
+| 21 | [Jsonwebtoken](./jsonwebtoken/) |
+| 22 | [Mongoose](./mongoose/) |
+| 23 | [Morgan](./morgan/) |
+| 24 | [Grunt](./Grunt/) |
+| 25 | [Socket](./socket/)|
+| 26 | [Router](./Router/)|
 
 <br/>
 
