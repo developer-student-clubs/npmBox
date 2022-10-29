@@ -12,4 +12,4 @@ jobs:
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         issue_message: 'Hello @${{github.actor}}, thanks for creating issue at npmBox, hope you followed the guidelines.'
-        pr-message: 'Congratulations!! for making your first PR at  npmBox, our mentors will review it soon.'
+        pr-message: 'Congratulations!! for making PR at  npmBox, our mentors will review it soon.'
