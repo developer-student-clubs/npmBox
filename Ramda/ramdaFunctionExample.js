@@ -145,4 +145,4 @@ const f = R.pipe(Math.pow, R.negate, R.inc);
 
 f(3, 4); // -(3^4) + 1
 
-[I//RADHE RADHE RAM RAM
+//RADHE RADHE RAM RAM
