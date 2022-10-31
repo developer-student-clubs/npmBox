@@ -62,6 +62,7 @@ So, What are you waiting for? 🤔
 | 26 | [Grunt](./Grunt/) |
 | 27 | [Socket](./socket/)|
 | 28 | [Router](./Router/)|
+| 29 | [RxJS](./RxJS/)|
 
 <br/>
 
