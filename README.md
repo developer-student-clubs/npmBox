@@ -57,9 +57,11 @@ So, What are you waiting for? 🤔
 | 21 | [Jsonwebtoken](./jsonwebtoken/) |
 | 22 | [Mongoose](./mongoose/) |
 | 23 | [Morgan](./morgan/) |
-| 24 | [Grunt](./Grunt/) |
-| 25 | [Socket](./socket/)|
-| 26 | [Router](./Router/)|
+| 24 | [Prisma](./prisma/) |
+| 25 | [TailWindCSS](./tailwindcss/) |
+| 26 | [Grunt](./Grunt/) |
+| 27 | [Socket](./socket/)|
+| 28 | [Router](./Router/)|
 
 <br/>
 
