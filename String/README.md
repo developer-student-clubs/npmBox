@@ -1,4 +1,3 @@
-RADHE RADHE RAM RAM
 
 # String
 
