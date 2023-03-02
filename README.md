@@ -167,15 +167,15 @@ Happy Submissions 🙂
 
 ## Code of Conduct
 
-To maintain a safe and inclusive space for everyone to learn and grow, contributors are advised to follow the [Code of Conduct](https://github.com/R-Ayush777/npmBox/blob/master/CODE_OF_CONDUCT.md). 
+To maintain a safe and inclusive space for everyone to learn and grow, contributors are advised to follow the [Code of Conduct](https://github.com/ayush-rudani/npmBox/blob/master/CODE_OF_CONDUCT.md). 
 
 
 ## Our valuable Contributors 👩‍💻🌟👨‍💻 :
 Thanks goes to these wonderful people
 
 <div align="center">
-<a href="https://github.com/developer-student-clubs/npmBox/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=developer-student-clubs/npmBox" />
+<a href="https://github.com/ayush-rudani/npmBox/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ayush-rudani/npmBox" />
 </a>
 
 <!-- Made with [contrib.rocks](https://contrib.rocks). -->
