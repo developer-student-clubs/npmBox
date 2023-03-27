@@ -63,6 +63,7 @@ So, What are you waiting for? 🤔
 | 27 | [Socket](./socket/)|
 | 28 | [Router](./Router/)|
 | 29 | [RxJS](./RxJS/)|
+| 30 | [Toastify](./Toastify/)|
 
 <br/>
 
