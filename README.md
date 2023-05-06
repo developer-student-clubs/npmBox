@@ -32,38 +32,38 @@ So, What are you waiting for? 🤔
 
 # npm Packages List 🗃
 
-| No  | Name of Package                            |
-| --- | ------------------------------------------ |
-| 1   | [Moment](./Moment/)                        |
-| 2   | [Uid](./Uid/)                              |
-| 3   | [Validator](./Validator/)                  |
-| 4   | [NodeMailer](./nodeMailer)                 |
-| 5   | [Password-Validator](./password-validator) |
-| 6   | [magic-string](./magic-string/)            |
-| 7   | [Bcrypt](./Bcrypt)                         |
-| 8   | [Express](./Router)                        |
-| 9   | [ora](./ora)                               |
+| No  | Name of Package                            | npmjs URL | Doc. URL |
+| --- | ------------------------------------------ | -- | -- | 
+| 1   | [Moment](./Moment/)                        | https://www.npmjs.com/package/moment | https://momentjs.com |
+| 2   | [Uid](./Uid/)                              |  |  |
+| 3   | [Validator](./Validator/)                  |  |  |
+| 4   | [NodeMailer](./nodeMailer)                 |  |  |
+| 5   | [Password-Validator](./password-validator) |  |  |
+| 6   | [magic-string](./magic-string/)            |  |  |
+| 7   | [Bcrypt](./Bcrypt)                         |  |  |
+| 8   | [Express](./Router)                        |  |  |
+| 9   | [ora](./ora)                               |  |  |
 | 10  | [Express](./Express/)
-| 11   | [browserify](./browserify)                   |
-| 12   | [Async](./Async)                             |
-| 13 | [Debug](./debug) |
-| 14 | [File-System](./File-System/) |
-| 15 | [Cloudinary](./Cloudinary/) |
-| 16 | [Fastify](./Fastify/) |
-| 17 | [Lodash](./Lodash/) |
-| 18 | [URL](./URL/) |
-| 19 | [Axios](./axios/) |
-| 20 | [Chalk](./chalk/) |
-| 21 | [Jsonwebtoken](./jsonwebtoken/) |
-| 22 | [Mongoose](./mongoose/) |
-| 23 | [Morgan](./morgan/) |
-| 24 | [Prisma](./prisma/) |
-| 25 | [TailWindCSS](./tailwindcss/) |
-| 26 | [Grunt](./Grunt/) |
-| 27 | [Socket](./socket/)|
-| 28 | [Router](./Router/)|
-| 29 | [RxJS](./RxJS/)|
-| 30 | [Toastify](./Toastify/)|
+| 11   | [browserify](./browserify)                   |  |  |
+| 12   | [Async](./Async)                             |  |  |
+| 13 | [Debug](./debug) |  |  |
+| 14 | [File-System](./File-System/) |  |  |
+| 15 | [Cloudinary](./Cloudinary/) |  |  |
+| 16 | [Fastify](./Fastify/) |  |  |
+| 17 | [Lodash](./Lodash/) |  |  |
+| 18 | [URL](./URL/) |  |  |
+| 19 | [Axios](./axios/) |  |  |
+| 20 | [Chalk](./chalk/) |  |  |
+| 21 | [Jsonwebtoken](./jsonwebtoken/) |  |  |
+| 22 | [Mongoose](./mongoose/) |  |  |
+| 23 | [Morgan](./morgan/) |  |  |
+| 24 | [Prisma](./prisma/) |  |  |
+| 25 | [TailWindCSS](./tailwindcss/) |  |  |
+| 26 | [Grunt](./Grunt/) |  |  |
+| 27 | [Socket](./socket/)|  |  |
+| 28 | [Router](./Router/)|  |  |
+| 29 | [RxJS](./RxJS/)|  |  |
+| 30 | [Toastify](./Toastify/)|  |  |
 
 <br/>
 
