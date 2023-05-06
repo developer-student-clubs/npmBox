@@ -32,38 +32,70 @@ So, What are you waiting for? 🤔
 
 # npm Packages List 🗃
 
-| No  | Name of Package                            | npmjs URL | Doc. URL |
-| --- | ------------------------------------------ | -- | -- | 
-| 1   | [Moment](./Moment/)                        | https://www.npmjs.com/package/moment | https://momentjs.com |
-| 2   | [Uid](./Uid/)                              |  |  |
-| 3   | [Validator](./Validator/)                  |  |  |
-| 4   | [NodeMailer](./nodeMailer)                 |  |  |
-| 5   | [Password-Validator](./password-validator) |  |  |
-| 6   | [magic-string](./magic-string/)            |  |  |
-| 7   | [Bcrypt](./Bcrypt)                         |  |  |
-| 8   | [Express](./Router)                        |  |  |
-| 9   | [ora](./ora)                               |  |  |
-| 10  | [Express](./Express/)
-| 11   | [browserify](./browserify)                   |  |  |
-| 12   | [Async](./Async)                             |  |  |
-| 13 | [Debug](./debug) |  |  |
-| 14 | [File-System](./File-System/) |  |  |
-| 15 | [Cloudinary](./Cloudinary/) |  |  |
-| 16 | [Fastify](./Fastify/) |  |  |
-| 17 | [Lodash](./Lodash/) |  |  |
-| 18 | [URL](./URL/) |  |  |
-| 19 | [Axios](./axios/) |  |  |
-| 20 | [Chalk](./chalk/) |  |  |
-| 21 | [Jsonwebtoken](./jsonwebtoken/) |  |  |
-| 22 | [Mongoose](./mongoose/) |  |  |
-| 23 | [Morgan](./morgan/) |  |  |
-| 24 | [Prisma](./prisma/) |  |  |
-| 25 | [TailWindCSS](./tailwindcss/) |  |  |
-| 26 | [Grunt](./Grunt/) |  |  |
-| 27 | [Socket](./socket/)|  |  |
-| 28 | [Router](./Router/)|  |  |
-| 29 | [RxJS](./RxJS/)|  |  |
-| 30 | [Toastify](./Toastify/)|  |  |
+
+<div align="center">
+
+|     | Name of Package                            | npmjs URL                            | Doc. URL                      |
+| --- | ------------------------------------------ | ------------------------------------ | ----------------------------- |
+|     | **A**                                      |                                      |                               |
+|     | [Async](./Async)                           |                                      |                               |
+|     | [Axios](./Axios/)                          |                                      |                               |
+|     | **B**                                      |                                      |                               |
+|     | [Bcrypt](./Bcrypt)                         |                                      |                               |
+|     | [browserify](./Browserify)                 |                                      |                               |
+|     | **C**                                      |                                      |                               |
+|     | [Cloudinary](./Cloudinary/)                |                                      |                               |
+|     | [Chalk](./chalk/)                          |                                      |                               |
+|     | **D**                                      |                                      |                               |
+|     | [Debug](./debug)                           |                                      |                               |
+|     | **E**                                      |                                      |                               |
+|     | [Express](./Express/)                      |                                      |                               |
+|     | [Express/Router](./Router)                 |                                      |                               |
+|     | **F**                                      |                                      |                               |
+|     | [File-System](./File-System/)              |                                      |                               |
+|     | [Fastify](./Fastify/)                      |                                      |                               |
+|     | **G**                                      |                                      |                               |
+|     | [Grunt](./Grunt/)                          |                                      |                               |
+|     | **H**                                      |                                      |                               |
+|     | **I**                                      |                                      |                               |
+|     | **J**                                      |                                      |                               |
+|     | [Jsonwebtoken](./jsonwebtoken/)            |                                      |                               |
+|     | **K**                                      |                                      |                               |
+|     | **L**                                      |                                      |                               |
+|     | [Lodash](./Lodash/)                        |                                      |                               |
+|     | **M**                                      |                                      |                               |
+|     | [Moment](./Moment/)                        | https://www.npmjs.com/package/moment | https://momentjs.com          |
+|     | [magic-string](./magic-string/)            |                                      |                               |
+|     | [Mongoose](./mongoose/)                    |                                      |                               |
+|     | [Morgan](./morgan/)                        |                                      |                               |
+|     | **N**                                      |                                      |                               |
+|     | [NodeMailer](./nodeMailer)                 |                                      |                               |
+|     | **O**                                      |                                      |                               |
+|     | [ora](./ora)                               |                                      |                               |
+|     | **P**                                      |                                      |                               |
+|     | [Password-Validator](./password-validator) |                                      |                               |
+|     | [Prisma](./prisma/)                        |                                      |                               |
+|     | **Q**                                      |                                      |                               |
+|     | **R**                                      |                                      |                               |
+|     | [Router](./Router/)                        |                                      |                               |
+|     | [RxJS](./RxJS/)                            |                                      |                               |
+|     | **S**                                      |                                      |                               |
+|     | [Socket](./Socket/)                        |                                      |                               |
+|     | **T**                                      |                                      |                               |
+|     | [TailWindCSS](./tailwindcss/)              |                                      |                               |
+|     | [Toastify](./Toastify/)                    |                                      |                               |
+|     | **U**                                      |                                      |                               |
+|     | [Uid](./Uid/)                              | https://www.npmjs.com/package/uid    | https://github.com/lukeed/uid |
+|     | [URL](./URL/)                              |                                      |                               |
+|     | **V**                                      |                                      |                               |
+|     | [Validator](./Validator/)                  |                                      |                               |
+|     | **W**                                      |                                      |                               |
+|     | **X**                                      |                                      |                               |
+|     | **Y**                                      |                                      |                               |
+|     | **Z**                                      |                                      |                               |
+
+
+</div>
 
 <br/>
 
