@@ -35,64 +35,64 @@ So, What are you waiting for? 🤔
 
 <div align="center">
 
-|     | Name of Package                            | npmjs URL                            | Doc. URL                      |
-| --- | ------------------------------------------ | ------------------------------------ | ----------------------------- |
-|     | **A**                                      |                                      |                               |
-|     | [Async](./Async)                           |                                      |                               |
-|     | [Axios](./Axios/)                          |                                      |                               |
-|     | **B**                                      |                                      |                               |
-|     | [Bcrypt](./Bcrypt)                         |                                      |                               |
-|     | [browserify](./Browserify)                 |                                      |                               |
-|     | **C**                                      |                                      |                               |
-|     | [Cloudinary](./Cloudinary/)                |                                      |                               |
-|     | [Chalk](./chalk/)                          |                                      |                               |
-|     | **D**                                      |                                      |                               |
-|     | [Debug](./debug)                           |                                      |                               |
-|     | **E**                                      |                                      |                               |
-|     | [Express](./Express/)                      |                                      |                               |
-|     | [Express/Router](./Router)                 |                                      |                               |
-|     | **F**                                      |                                      |                               |
-|     | [File-System](./File-System/)              |                                      |                               |
-|     | [Fastify](./Fastify/)                      |                                      |                               |
-|     | **G**                                      |                                      |                               |
-|     | [Grunt](./Grunt/)                          |                                      |                               |
-|     | **H**                                      |                                      |                               |
-|     | **I**                                      |                                      |                               |
-|     | **J**                                      |                                      |                               |
-|     | [Jsonwebtoken](./jsonwebtoken/)            |                                      |                               |
-|     | **K**                                      |                                      |                               |
-|     | **L**                                      |                                      |                               |
-|     | [Lodash](./Lodash/)                        |                                      |                               |
-|     | **M**                                      |                                      |                               |
-|     | [Moment](./Moment/)                        | https://www.npmjs.com/package/moment | https://momentjs.com          |
-|     | [magic-string](./magic-string/)            |                                      |                               |
-|     | [Mongoose](./mongoose/)                    |                                      |                               |
-|     | [Morgan](./morgan/)                        |                                      |                               |
-|     | **N**                                      |                                      |                               |
-|     | [NodeMailer](./nodeMailer)                 |                                      |                               |
-|     | **O**                                      |                                      |                               |
-|     | [ora](./ora)                               |                                      |                               |
-|     | **P**                                      |                                      |                               |
-|     | [Password-Validator](./password-validator) |                                      |                               |
-|     | [Prisma](./prisma/)                        |                                      |                               |
-|     | **Q**                                      |                                      |                               |
-|     | **R**                                      |                                      |                               |
-|     | [Router](./Router/)                        |                                      |                               |
-|     | [RxJS](./RxJS/)                            |                                      |                               |
-|     | **S**                                      |                                      |                               |
-|     | [Socket](./Socket/)                        |                                      |                               |
-|     | **T**                                      |                                      |                               |
-|     | [TailWindCSS](./tailwindcss/)              |                                      |                               |
-|     | [Toastify](./Toastify/)                    |                                      |                               |
-|     | **U**                                      |                                      |                               |
-|     | [Uid](./Uid/)                              | https://www.npmjs.com/package/uid    | https://github.com/lukeed/uid |
-|     | [URL](./URL/)                              |                                      |                               |
-|     | **V**                                      |                                      |                               |
-|     | [Validator](./Validator/)                  |                                      |                               |
-|     | **W**                                      |                                      |                               |
-|     | **X**                                      |                                      |                               |
-|     | **Y**                                      |                                      |                               |
-|     | **Z**                                      |                                      |                               |
+|         | Name of Package                            | npmjs URL                            | Doc. URL                      |
+| ------- | ------------------------------------------ | ------------------------------------ | ----------------------------- |
+| **---** | **A**                                      |
+|         | [Async](./Async)                           |                                      |                               |
+|         | [Axios](./Axios/)                          |                                      |                               |
+| **---** | **B**                                      |                                      |                               |
+|         | [Bcrypt](./Bcrypt)                         |                                      |                               |
+|         | [browserify](./Browserify)                 |                                      |                               |
+| **---** | **C**                                      |                                      |                               |
+|         | [Cloudinary](./Cloudinary/)                |                                      |                               |
+|         | [Chalk](./chalk/)                          |                                      |                               |
+| **---** | **D**                                      |                                      |                               |
+|         | [Debug](./debug)                           |                                      |                               |
+| **---** | **E**                                      |                                      |                               |
+|         | [Express](./Express/)                      |                                      |                               |
+|         | [Express/Router](./Router)                 |                                      |                               |
+| **---** | **F**                                      |                                      |                               |
+|         | [File-System](./File-System/)              |                                      |                               |
+|         | [Fastify](./Fastify/)                      |                                      |                               |
+| **---** | **G**                                      |                                      |                               |
+|         | [Grunt](./Grunt/)                          |                                      |                               |
+| **---** | **H**                                      |                                      |                               |
+| **---** | **I**                                      |                                      |                               |
+| **---** | **J**                                      |                                      |                               |
+|         | [Jsonwebtoken](./jsonwebtoken/)            |                                      |                               |
+| **---** | **K**                                      |                                      |                               |
+| **---** | **L**                                      |                                      |                               |
+|         | [Lodash](./Lodash/)                        |                                      |                               |
+| **---** | **M**                                      |                                      |                               |
+|         | [Moment](./Moment/)                        | https://www.npmjs.com/package/moment | https://momentjs.com          |
+|         | [magic-string](./magic-string/)            |                                      |                               |
+|         | [Mongoose](./mongoose/)                    |                                      |                               |
+|         | [Morgan](./morgan/)                        |                                      |                               |
+| **---** | **N**                                      |                                      |                               |
+|         | [NodeMailer](./nodeMailer)                 |                                      |                               |
+| **---** | **O**                                      |                                      |                               |
+|         | [ora](./ora)                               |                                      |                               |
+| **---** | **P**                                      |                                      |                               |
+|         | [Password-Validator](./password-validator) |                                      |                               |
+|         | [Prisma](./prisma/)                        |                                      |                               |
+| **---** | **Q**                                      |                                      |                               |
+| **---** | **R**                                      |                                      |                               |
+|         | [Router](./Router/)                        |                                      |                               |
+|         | [RxJS](./RxJS/)                            |                                      |                               |
+| **---** | **S**                                      |                                      |                               |
+|         | [Socket](./Socket/)                        |                                      |                               |
+| **---** | **T**                                      |                                      |                               |
+|         | [TailWindCSS](./tailwindcss/)              |                                      |                               |
+|         | [Toastify](./Toastify/)                    |                                      |                               |
+| **---** | **U**                                      |                                      |                               |
+|         | [Uid](./Uid/)                              | https://www.npmjs.com/package/uid    | https://github.com/lukeed/uid |
+|         | [URL](./URL/)                              |                                      |                               |
+| **---** | **V**                                      |                                      |                               |
+|         | [Validator](./Validator/)                  |                                      |                               |
+| **---** | **W**                                      |                                      |                               |
+| **---** | **X**                                      |                                      |                               |
+| **---** | **Y**                                      |                                      |                               |
+| **---** | **Z**                                      |                                      |                               |
 
 
 </div>
