@@ -38,8 +38,8 @@ So, What are you waiting for? 🤔
 |         | Name of Package                            | npmjs URL                            | Doc. URL                      |
 | ------- | ------------------------------------------ | ------------------------------------ | ----------------------------- |
 | **---** | **A**                                      |
-|         | [Async](./Async)                           |                                      |                               |
-|         | [Axios](./Axios/)                          |                                      |                               |
+|         | [Async](./Async)                           |                   https://www.npmjs.com/package/async                   |        https://caolan.github.io/async/v3/                       |
+|         | [Axios](./Axios/)                          |              https://www.npmjs.com/package/axios                        |               https://axios-http.com/                |
 | **---** | **B**                                      |                                      |                               |
 |         | [Bcrypt](./Bcrypt)                         |                                      |                               |
 |         | [browserify](./Browserify)                 |                                      |                               |
