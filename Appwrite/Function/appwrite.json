@@ -1,0 +1,21 @@
+{
+    "projectId": "6423c45abd5e4f3c8d14",
+    "projectName": "",
+    "functions": [
+        {
+            "$id": "645a3d05eb0ca4ab8077",
+            "name": "Todo-Timer",
+            "runtime": "node-16.0",
+            "path": "functions/Todo-Timer",
+            "entrypoint": "src/index.js",
+            "ignore": [
+                "node_modules",
+                ".npm"
+            ],
+            "execute": [],
+            "events": [],
+            "schedule": "",
+            "timeout": 15
+        }
+    ]
+}
