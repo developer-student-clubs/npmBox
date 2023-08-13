@@ -166,7 +166,7 @@ git add .
 **10.** Commit your changes .
 
 ```
-git commit -m "Relevant message"
+git commit -m "<Relevant message>"
 ```
 
 **11.** Push the committed changes in your feature branch to your remote repo.
