@@ -7,7 +7,7 @@
 ## Overview
 
 
-This repository contains/will contains various npm modules that you can tweak according to your needs ans use them in your projects. Our objective is to create the largest collection of npm packages with proper documentation.
+This repository contains/will contains various existing npm modules and user defined modules that you can tweak according to your needs ans use them in your projects. . Our noble aim is to craft the grandest repository of npm packages, complete with proper documentation.
 So, What are you waiting for? 🤔
 
 <!-- <p align="center"><img src="https://user-images.githubusercontent.com/78534043/192937053-a3345951-b607-4cd3-a05d-21ca9915955c.jpg"  width=40%></p> -->
@@ -37,62 +37,62 @@ So, What are you waiting for? 🤔
 
 |         | Name of Package                            | npmjs URL                            | Doc. URL                      |
 | ------- | ------------------------------------------ | ------------------------------------ | ----------------------------- |
-| **---** | **A**                                      |
+|  | **A**                                      |
 |         | [Async](./Async)                           |                   https://www.npmjs.com/package/async                   |        https://caolan.github.io/async/v3/                       |
 |         | [Axios](./Axios/)                          |              https://www.npmjs.com/package/axios                        |               https://axios-http.com/                |
-| **---** | **B**                                      |                                      |                               |
+|  | **B**                                      |                                      |                               |
 |         | [Bcrypt](./Bcrypt)                         |                                      |                               |
 |         | [browserify](./Browserify)                 |                                      |                               |
-| **---** | **C**                                      |                                      |                               |
+| | **C**                                      |                                      |                               |
 |         | [Cloudinary](./Cloudinary/)                |                                      |                               |
 |         | [Chalk](./chalk/)                          |                                      |                               |
-| **---** | **D**                                      |                                      |                               |
+|  | **D**                                      |                                      |                               |
 |         | [Debug](./debug)                           |                                      |                               |
-| **---** | **E**                                      |                                      |                               |
+|   | **E**                                      |                                      |                               |
 |         | [Express](./Express/)                      |                                      |                               |
 |         | [Express/Router](./Router)                 |                                      |                               |
-| **---** | **F**                                      |                                      |                               |
+|   | **F**                                      |                                      |                               |
 |         | [File-System](./File-System/)              |                                      |                               |
 |         | [Fastify](./Fastify/)                      |                                      |                               |
-| **---** | **G**                                      |                                      |                               |
+|   | **G**                                      |                                      |                               |
 |         | [Grunt](./Grunt/)                          |                                      |                               |
-| **---** | **H**                                      |                                      |                               |
-| **---** | **I**                                      |                                      |                               |
-| **---** | **J**                                      |                                      |                               |
+|   | **H**                                      |                                      |                               |
+|   | **I**                                      |                                      |                               |
+|   | **J**                                      |                                      |                               |
 |         | [Jsonwebtoken](./jsonwebtoken/)            |                                      |                               |
-| **---** | **K**                                      |                                      |                               |
-| **---** | **L**                                      |                                      |                               |
+|   | **K**                                      |                                      |                               |
+|   | **L**                                      |                                      |                               |
 |         | [Lodash](./Lodash/)                        |                                      |                               |
-| **---** | **M**                                      |                                      |                               |
+|   | **M**                                      |                                      |                               |
 |         | [Moment](./Moment/)                        | https://www.npmjs.com/package/moment | https://momentjs.com          |
 |         | [magic-string](./magic-string/)            |                                      |                               |
 |         | [Mongoose](./mongoose/)                    |                                      |                               |
 |         | [Morgan](./morgan/)                        |                                      |                               |
-| **---** | **N**                                      |                                      |                               |
+|   | **N**                                      |                                      |                               |
 |         | [NodeMailer](./nodeMailer)                 |                                      |                               |
-| **---** | **O**                                      |                                      |                               |
+|   | **O**                                      |                                      |                               |
 |         | [ora](./ora)                               |                                      |                               |
-| **---** | **P**                                      |                                      |                               |
+|   | **P**                                      |                                      |                               |
 |         | [Password-Validator](./password-validator) |                                      |                               |
 |         | [Prisma](./prisma/)                        |                                      |                               |
-| **---** | **Q**                                      |                                      |                               |
-| **---** | **R**                                      |                                      |                               |
+|   | **Q**                                      |                                      |                               |
+|   | **R**                                      |                                      |                               |
 |         | [Router](./Router/)                        |                                      |                               |
 |         | [RxJS](./RxJS/)                            |                                      |                               |
-| **---** | **S**                                      |                                      |                               |
+|   | **S**                                      |                                      |                               |
 |         | [Socket](./Socket/)                        |                                      |                               |
-| **---** | **T**                                      |                                      |                               |
+|   | **T**                                      |                                      |                               |
 |         | [TailWindCSS](./tailwindcss/)              |                                      |                               |
 |         | [Toastify](./Toastify/)                    |                                      |                               |
-| **---** | **U**                                      |                                      |                               |
+|   | **U**                                      |                                      |                               |
 |         | [Uid](./Uid/)                              | https://www.npmjs.com/package/uid    | https://github.com/lukeed/uid |
 |         | [URL](./URL/)                              |                                      |                               |
-| **---** | **V**                                      |                                      |                               |
+|   | **V**                                      |                                      |                               |
 |         | [Validator](./Validator/)                  |                                      |                               |
-| **---** | **W**                                      |                                      |                               |
-| **---** | **X**                                      |                                      |                               |
-| **---** | **Y**                                      |                                      |                               |
-| **---** | **Z**                                      |                                      |                               |
+|   | **W**                                      |                                      |                               |
+|   | **X**                                      |                                      |                               |
+|   | **Y**                                      |                                      |                               |
+|   | **Z**                                      |                                      |                               |
 
 
 </div>
@@ -126,7 +126,7 @@ cd npmBox
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/R-Ayush777/npmBox.git 
+git remote add upstream https://github.com/R-Ayush777/npmBox
 ```
 
 **5.** Check the remotes for this repository.
@@ -148,10 +148,10 @@ git checkout -b <your_branch_name>
 ```
 
 **8.** Perfom your desired changes to the code base.
-___Note:___ Before making any modifications, be sure to install all essential packages with the `npm install` command.
+___Note:___ Before making any modifications, be sure to install all essential packages with the `npm install <package name>` command.
 
 ***If You adding new package***
-
+- Navigate to npm_Modules <`cd npm_Modules`> for existing npm packages and to user_Modules <`cd user_Modules`> for user defined packages
 - Create new Folder with you package/module name `<name of package>`
 - Add file with name of file package name `<name of package>.js`. ___if it contains multiple file then main file should be name as above.___
 - Adde README.md file which conatsins Add all neccessary information like functionalities, use-cases, code snippets etc. in the README.md file. 
@@ -175,7 +175,7 @@ git commit -m "<Relevant message>"
 git push -u origin <your_branch_name>
 ```
 
-**12.** To create a pull request, click on `**compare and pull requests**`.
+**12.** To create a pull request, click on `compare and pull requests`.
 
 **13.** Add appropriate title and description to your pull request explaining your changes and efforts done.
 

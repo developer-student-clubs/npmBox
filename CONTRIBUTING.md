@@ -2,9 +2,16 @@
 
 # Contribution Guidelines 👨‍🏫🏗
 
-This documentation contains a set of guidelines to help you during the contribution process. We are happy to welcome all the contributions from anyone willing to improve/add new scripts to this project. Thank you for helping out and remember, no contribution is too small.
+This documentation contains a set of guidelines to help you during the contribution process. We are happy to welcome all the contributions from anyone willing to improve/add new scripts to this project. Thank you for helping out and remember, no contribution is too small. 
+
+Make documentation for each module which is creative and also give some similar modules in reference. Provide pros and cons for the respective modules.
 
 Are we missing any of your favorite modules, which you think you can add to it? We invite you to contribute to this project and make it better.
+
+You can also make your own user defined module and show the world its potential by adding it to Npm Box .
+
+You may update any previously contributed module and make it more healthy for people .
+
 To start contributing, follow the below guidelines.
 
 ## Step 1: Find a issue
@@ -17,9 +24,9 @@ To start contributing, follow the below guidelines.
 ## Step 2: Fork the Project
 - Fork this Repository. This will create Local Copy of this Repository on your Github Profile. Keep a reference to the original project in upstream remote.
 ```
-$ git clone https://github.com/<your-username>/LearnCPP
-$ cd LearnCPP
-$ git remote add upstream https://github.com/Lakhankumawat/LearnCPP
+$ git clone https://github.com/<your-username>/npmBox
+$ cd npmBox
+$ git remote add upstream https://github.com/<your-username>/npmBox
 ```
 
 <p align = "center"><img src="https://user-images.githubusercontent.com/78534043/193021627-316ca69d-3daf-47c5-96f0-e63e11b31d53.png" width=60%/> </p>
@@ -68,7 +75,6 @@ $ git push -u origin Branch_Name
 
 ## Step 7 : Pull Request
 - Go to your repository in browser and click on compare and pull requests. Then add a title and description to your pull request that explains your contribution.
-
 - Voila! Your Pull Request has been submitted and will be reviewed by the moderators and merged.🥳
 
 <br>
