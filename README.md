@@ -7,7 +7,7 @@
 ## Overview
 
 
-This repository contains/will contains various existing npm modules and user defined modules that you can tweak according to your needs ans use them in your projects. . Our noble aim is to craft the grandest repository of npm packages, complete with proper documentation.
+This repository contains/will contains various existing npm modules and user defined modules that you can tweak according to your needs and use them in your projects. Our noble aim is to craft the grandest repository of npm packages, complete with proper documentation.
 So, What are you waiting for? 🤔
 
 <!-- <p align="center"><img src="https://user-images.githubusercontent.com/78534043/192937053-a3345951-b607-4cd3-a05d-21ca9915955c.jpg"  width=40%></p> -->
@@ -41,8 +41,8 @@ So, What are you waiting for? 🤔
 |         | [Async](./Async)                           |                   [npm Async](https://www.npmjs.com/package/async)                   |        [Doc Async](https://caolan.github.io/async/v3/)                       |
 |         | [Axios](./Axios/)                          |              [npm Axios](https://www.npmjs.com/package/axios)                        |               [Doc Axios](https://axios-http.com/)                |
 | **B**                                      |                                      |                               |
-|         | [Bcrypt](./Bcrypt)                         |                                      |                               |
-|         | [browserify](./Browserify)                 |                                      |                               |
+|         | [Bcrypt](./Bcrypt)                         |      [npm Bcrypt](https://www.npmjs.com/package/bcrypt)                               |     [Doc Bcrypt](https://github.com/dcodeIO/bcrypt.js/blob/master/README.md)                          |
+|         | [browserify](./Browserify)                 |  [npm Browserify](https://www.npmjs.com/package/browserify)                       |     [Doc Browserify](https://github.com/browserify/browserify#browserify)                         |
 | **C**                                      |                                      |                               |
 |         | [Cloudinary](./Cloudinary/)                |                                      |                               |
 |         | [Chalk](./chalk/)                          |                                      |                               |
@@ -55,6 +55,7 @@ So, What are you waiting for? 🤔
 |         | [File-System](./File-System/)              |                                      |                               |
 |         | [Fastify](./Fastify/)                      |                                      |                               |
 | **G**                                      |                                      |                               |
+|         | [GraphQL](./GraphQL/)                      |     [npm GraphQL](https://www.npmjs.com/package/graphql)     |     [docs GraphQL](https://graphql.org/learn/)     |
 |         | [Grunt](./Grunt/)                          |                                      |                               |
 | **H**                                      |                                      |                               |
 | **I**                                      |                                      |                               |
@@ -147,14 +148,14 @@ git pull upstream master
 git checkout -b <your_branch_name>
 ```
 
-**8.** Perfom your desired changes to the code base.
+**8.** Perform your desired changes to the code base.
 ___Note:___ Before making any modifications, be sure to install all essential packages with the `npm install <package name>` command.
 
 ***If You adding new package***
 - Navigate to npm_Modules <`cd npm_Modules`> for existing npm packages and to user_Modules <`cd user_Modules`> for user defined packages
-- Create new Folder with you package/module name `<name of package>`
-- Add file with name of file package name `<name of package>.js`. ___if it contains multiple file then main file should be name as above.___
-- Adde README.md file which conatsins Add all neccessary information like functionalities, use-cases, code snippets etc. in the README.md file. 
+- Create new Folder with your package/module name `<name of package>`
+- Add file with name of file package name `<name of package>.js`. ___if it contains multiple files then main file should be named as above.___
+- Add README.md file which contains all necessary information like functionalities, use-cases, code snippets etc. in the README.md file. 
 
 
 **9.** Track your changes:heavy_check_mark: .
