@@ -38,14 +38,14 @@ So, What are you waiting for? 🤔
 |         | Name of Package                            | npmjs URL                            | Doc. URL                      |
 | ------- | ------------------------------------------ | ------------------------------------ | ----------------------------- |
 | **A**                                      |
-|         | [Async](./Async)                           |                   [npm Async](https://www.npmjs.com/package/async)                   |        [Doc Async](https://caolan.github.io/async/v3/)                       |
-|         | [Axios](./Axios/)                          |              [npm Axios](https://www.npmjs.com/package/axios)                        |               [Doc Axios](https://axios-http.com/)                |
+|         | [Async](./npm_Modules/Async)                           |                   [npm Async](https://www.npmjs.com/package/async)                   |        [Doc Async](https://caolan.github.io/async/v3/)                       |
+|         | [Axios](./npm_Modules/Axios)                          |              [npm Axios](https://www.npmjs.com/package/axios)                        |               [Doc Axios](https://axios-http.com/)                |
 | **B**                                      |                                      |                               |
-|         | [Bcrypt](./Bcrypt)                         |      [npm Bcrypt](https://www.npmjs.com/package/bcrypt)                               |     [Doc Bcrypt](https://github.com/dcodeIO/bcrypt.js/blob/master/README.md)                          |
+|         | [Bcrypt](./npm_Modules/Bcrypt)                         |      [npm Bcrypt](https://www.npmjs.com/package/bcrypt)                               |     [Doc Bcrypt](https://github.com/dcodeIO/bcrypt.js/blob/master/README.md)                          |
 |         | [browserify](./Browserify)                 |  [npm Browserify](https://www.npmjs.com/package/browserify)                       |     [Doc Browserify](https://github.com/browserify/browserify#browserify)                         |
 | **C**                                      |                                      |                               |
-|         | [Cloudinary](./Cloudinary/)                |                                      |                               |
-|         | [Chalk](./chalk/)                          |                                      |                               |
+|         | [Cloudinary](./npm_Modules/Cloudinary/)                |                                      |                               |
+|         | [Chalk](./npm_Modules/chalk/)                          |                                      |                               |
 | **D**                                      |                                      |                               |
 |         | [Debug](./debug)                           |                                      |                               |
 | **E**                                      |                                      |                               |
