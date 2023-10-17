@@ -51,6 +51,7 @@ So, What are you waiting for? 🤔
 | **E**                                      |                                      |                               |
 |         | [Express](./npm_Modules/Express/)                      |                                      |                               |
 |         | [Express/Router](./npm_Modules/Router/)                 |                                      |                               |
+|         | [EJS](./npm_Modules/EJS/)                              |     [npm EJS](https://www.npmjs.com/package/ejs)       |    [docs EJS](https://ejs.co/)     |
 | **F**                                      |                                      |                               |
 |         | [File-System](./npm_Modules/File-System/)              |                                      |                               |
 |         | [Fastify](./npm_Modules/Fastify/)                      |                                      |                               |
@@ -82,6 +83,7 @@ So, What are you waiting for? 🤔
 |         | [RxJS](./npm_Modules/RxJS/)                            |                                      |                               |
 | **S**                                      |                                      |                               |
 |         | [Socket](./npm_Modules/Socket/)                        |                                      |                               |
+|         | [ShellJs](./npm_Modules/ShellJs/)                      |   [npm ShellJs](https://www.npmjs.com/package/shelljs)    |    [docs ShellJs](https://github.com/shelljs/shelljs)    |
 | **T**                                      |                                      |                               |
 |         | [TailWindCSS](./npm_Modules/tailwindcss/)              |                                      |                               |
 |         | [Toastify](./npm_Modules/Toastify/)                    |                                      |                               |
