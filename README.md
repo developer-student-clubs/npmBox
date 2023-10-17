@@ -93,6 +93,7 @@ So, What are you waiting for? 🤔
 | **W**                                      |                                      |                               |
 | **X**                                      |                                      |                               |
 | **Y**                                      |                                      |                               |
+|         | [Yup](.npm_Modules/Yup/)         |    [npm Yup](https://www.npmjs.com/package/yup)    |    [docs Yup](https://github.com/jquense/yup)    |
 | **Z**                                      |                                      |                               |
 
 
