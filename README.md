@@ -44,10 +44,10 @@ So, What are you waiting for? 🤔
 |         | [Bcrypt](./npm_Modules/Bcrypt/)                         |      [npm Bcrypt](https://www.npmjs.com/package/bcrypt)                               |     [Doc Bcrypt](https://github.com/dcodeIO/bcrypt.js/blob/master/README.md)                          |
 |         | [browserify](./npm_Modules/Browserify/)                 |  [npm Browserify](https://www.npmjs.com/package/browserify)                       |     [Doc Browserify](https://github.com/browserify/browserify#browserify)                         |
 | **C**                                      |                                      |                               |
-|         | [Cloudinary](./npm_Modules/Cloudinary/)                |                                      |                               |
-|         | [Chalk](./npm_Modules/chalk/)                          |                                      |                               |
+|         | [Cloudinary](./npm_Modules/Cloudinary/)                |     [npm Cloudinary](https://www.npmjs.com/package/cloudinary)                                 |    [docs Cloudinary](https://cloudinary.com/documentation/)                           |
+|         | [Chalk](./npm_Modules/chalk/)                          |     [npm Chalk](https://www.npmjs.com/package/chalk)                           |   [docs Chalk](https://github.com/chalk/chalk)                              |
 | **D**                                      |                                      |                               |
-|         | [Debug](./npm_Modules/debug/)                           |                                      |                               |
+|         | [Debug](./npm_Modules/debug/)                           |    [npm Debug](https://www.npmjs.com/package/debug)                                 |                               |
 | **E**                                      |                                      |                               |
 |         | [Express](./npm_Modules/Express/)                      |                                      |                               |
 |         | [Express/Router](./npm_Modules/Router/)                 |                                      |                               |
