@@ -49,49 +49,49 @@ So, What are you waiting for? 🤔
 | **D**                                      |                                      |                               |
 |         | [Debug](./npm_Modules/debug/)                           |    [npm Debug](https://www.npmjs.com/package/debug)                                 |                               |
 | **E**                                      |                                      |                               |
-|         | [Express](./npm_Modules/Express/)                      |                                      |                               |
-|         | [Express/Router](./npm_Modules/Router/)                 |                                      |                               |
+|         | [Express](./npm_Modules/Express/)                      |     [npm Express](https://www.npmjs.com/package/express)                                 |    [docs Express](https://expressjs.com/)                           |
+|         | [Express/Router](./npm_Modules/Router/)                 |    [npm Express/Router](https://www.npmjs.com/package/express-router)                                  |     [docs Express/Router](https://expressjs.com/en/guide/routing.html)                          |
 |         | [EJS](./npm_Modules/EJS/)                              |     [npm EJS](https://www.npmjs.com/package/ejs)       |    [docs EJS](https://ejs.co/)     |
 | **F**                                      |                                      |                               |
-|         | [File-System](./npm_Modules/File-System/)              |                                      |                               |
-|         | [Fastify](./npm_Modules/Fastify/)                      |                                      |                               |
+|         | [File-System](./npm_Modules/File-System/)              |    [npm File-System](https://www.npmjs.com/package/file-system)                                  |                               |
+|         | [Fastify](./npm_Modules/Fastify/)                      |    [npm Fastify](https://www.npmjs.com/package/fastify)                                  |    [docs Fastify](https://github.com/fastify/fastify/blob/HEAD/docs/Guides/Getting-Started.md)                           |
 | **G**                                      |                                      |                               |
 |         | [GraphQL](./npm_Modules/GraphQL/)                      |     [npm GraphQL](https://www.npmjs.com/package/graphql)     |     [docs GraphQL](https://graphql.org/learn/)     |
-|         | [Grunt](./npm_Modules/Grunt/)                          |                                      |                               |
+|         | [Grunt](./npm_Modules/Grunt/)                          |     [npm Grunt](https://www.npmjs.com/package/grunt)                                 |    [docs Grunt](https://gruntjs.com/)                           |
 | **H**                                      |                                      |                               |
 | **I**                                      |                                      |                               |
 | **J**                                      |                                      |                               |
-|         | [Jsonwebtoken](./npm_Modules/jsonwebtoken/)            |                                      |                               |
+|         | [Jsonwebtoken](./npm_Modules/jsonwebtoken/)            |     [npm Jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)                                 |                               |
 | **K**                                      |                                      |                               |
 | **L**                                      |                                      |                               |
-|         | [Lodash](./npm_Modules/Lodash/)                        |                                      |                               |
+|         | [Lodash](./npm_Modules/Lodash/)                        |     [npm lodash](https://www.npmjs.com/package/@types/lodash)                                 |     [docs Lodash](https://lodash.com/)                          |
 | **M**                                      |                                      |                               |
-|         | [Moment](./npm_Modules/Moment/)                        | [npm Moment](https://www.npmjs.com/package/moment) | [Doc Moment](https://momentjs.com)          |
-|         | [magic-string](./npm_Modules/magic-string/)            |                                      |                               |
-|         | [Mongoose](./npm_Modules/mongoose/)                    |                                      |                               |
-|         | [Morgan](./npm_Modules/morgan/)                        |                                      |                               |
+|         | [Moment](./npm_Modules/Moment/)                        | [npm moment](https://www.npmjs.com/package/moment) | [Doc Moment](https://momentjs.com)          |
+|         | [magic-string](./npm_Modules/magic-string/)            |     [npm magic-string](https://www.npmjs.com/package/magic-string)                                 |                               |
+|         | [Mongoose](./npm_Modules/mongoose/)                    |     [npm mongoose](https://www.npmjs.com/package/mongoose)                                 |      [docs mongoose](https://mongoosejs.com/docs/)                         |
+|         | [Morgan](./npm_Modules/morgan/)                        |    [npm morgan](https://www.npmjs.com/package/morgan)                                  |                               |
 | **N**                                      |                                      |                               |
-|         | [NodeMailer](./npm_Modules/nodeMailer/)                 |                                      |                               |
+|         | [NodeMailer](./npm_Modules/nodeMailer/)                 |     [npm nodemailer](https://www.npmjs.com/package/nodemailer)                                 |     [docs nodemailer](https://nodemailer.com/)                          |
 | **O**                                      |                                      |                               |
-|         | [ora](./npm_Modules/ora/)                               |                                      |                               |
+|         | [ora](./npm_Modules/ora/)                               |     [npm ora](https://www.npmjs.com/package/ora)                                 |                               |
 | **P**                                      |                                      |                               |
 |         | [Password-Validator](./npm_Modules/password-validator/) |                                      |                               |
-|         | [Prisma](./npm_Modules/prisma/)                        |                                      |                               |
+|         | [Prisma](./npm_Modules/prisma/)                        |     [npm prisma](https://www.npmjs.com/package/prisma)                                 |     [docs prisma](https://www.prisma.io/docs)                          |
 | **Q**                                      |                                      |                               |
 | **R**                                      |                                      |                               |
-|         | [Router](./npm_Modules/Router/)                        |                                      |                               |
-|         | [RxJS](./npm_Modules/RxJS/)                            |                                      |                               |
+|         | [Router](./npm_Modules/Router/)                        |     [npm router](https://www.npmjs.com/package/router)                                 |                               |
+|         | [RxJS](./npm_Modules/RxJS/)                            |    [npm rxjs](https://www.npmjs.com/package/rxjs)                                  |     [docs rxjs](https://rxjs.dev/guide/installation)                          |
 | **S**                                      |                                      |                               |
-|         | [Socket](./npm_Modules/Socket/)                        |                                      |                               |
+|         | [Socket](./npm_Modules/Socket/)                        |     [npm socket](https://www.npmjs.com/package/socket.io)                                 |                               |
 |         | [ShellJs](./npm_Modules/ShellJs/)                      |   [npm ShellJs](https://www.npmjs.com/package/shelljs)    |    [docs ShellJs](https://github.com/shelljs/shelljs)    |
 | **T**                                      |                                      |                               |
-|         | [TailWindCSS](./npm_Modules/tailwindcss/)              |                                      |                               |
-|         | [Toastify](./npm_Modules/Toastify/)                    |                                      |                               |
+|         | [TailWindCSS](./npm_Modules/tailwindcss/)              |     [npm tailwindcss](https://www.npmjs.com/package/tailwindcss)                                 |     [docs tailwindcss](https://tailwindcss.com/docs/installation)                          |
+|         | [Toastify](./npm_Modules/Toastify/)                    |      [npm toastify](https://www.npmjs.com/package/react-toastify)                                |                               |
 | **U**                                      |                                      |                               |
 |         | [Uid](./npm_Modules/Uid/)                              | [npm Uid](https://www.npmjs.com/package/uid)    | [Doc Uid](https://github.com/lukeed/uid) |
 |         | [URL](./npm_Modules/URL/)                              |                                      |                               |
 | **V**                                      |                                      |                               |
-|         | [Validator](./npm_Modules/Validator/)                  |                                      |                               |
+|         | [Validator](./npm_Modules/Validator/)                  |     [npm validator](https://www.npmjs.com/package/validator)                                 |                               |
 | **W**                                      |                                      |                               |
 | **X**                                      |                                      |                               |
 | **Y**                                      |                                      |                               |
