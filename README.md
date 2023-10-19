@@ -61,6 +61,7 @@ So, What are you waiting for? 🤔
 | **H**                                      |                                      |                               |
 |         | [Husky](./npm_Modules/Husky/)                    |    [npm Husky](https://www.npmjs.com/package/husky)       |    [docs Husky](https://typicode.github.io/husky/)     |
 | **I**                                      |                                      |                               |
+|           | [is-URL](./npm_Modules/isURL/)                                 |    [npm_is-url](https://www.npmjs.com/package/is-url?activeTab=readme)                                   |                               | 
 | **J**                                      |                                      |                               |
 |         | [Jsonwebtoken](./npm_Modules/jsonwebtoken/)            |     [npm Jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)                                 |                               |
 | **K**                                      |                                      |                               |
