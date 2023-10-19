@@ -27,6 +27,7 @@
     "express": "^4.18.2",
     "fastify": "^4.9.2",
     "fs": "^0.0.1-security",
+    "is-url": "^1.2.4",
     "magic-string": "^0.26.7",
     "moment": "^2.29.4",
     "morgan": "^1.10.0",
