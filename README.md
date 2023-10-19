@@ -59,6 +59,7 @@ So, What are you waiting for? 🤔
 |         | [GraphQL](./npm_Modules/GraphQL/)                      |     [npm GraphQL](https://www.npmjs.com/package/graphql)     |     [docs GraphQL](https://graphql.org/learn/)     |
 |         | [Grunt](./npm_Modules/Grunt/)                          |     [npm Grunt](https://www.npmjs.com/package/grunt)                                 |    [docs Grunt](https://gruntjs.com/)                           |
 | **H**                                      |                                      |                               |
+|         | [Husky](./npm_Modules/Husky/)                    |    [npm Husky](https://www.npmjs.com/package/husky)       |    [docs Husky](https://typicode.github.io/husky/)     |
 | **I**                                      |                                      |                               |
 | **J**                                      |                                      |                               |
 |         | [Jsonwebtoken](./npm_Modules/jsonwebtoken/)            |     [npm Jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)                                 |                               |
@@ -70,6 +71,7 @@ So, What are you waiting for? 🤔
 |         | [magic-string](./npm_Modules/magic-string/)            |     [npm magic-string](https://www.npmjs.com/package/magic-string)                                 |                               |
 |         | [Mongoose](./npm_Modules/mongoose/)                    |     [npm mongoose](https://www.npmjs.com/package/mongoose)                                 |      [docs mongoose](https://mongoosejs.com/docs/)                         |
 |         | [Morgan](./npm_Modules/morgan/)                        |    [npm morgan](https://www.npmjs.com/package/morgan)                                  |                               |
+|         | [Million](./npm_Modules/Million/)          |     [npm Million](https://www.npmjs.com/package/million)      |      [docs Million](https://github.com/aidenybai/million)     |
 | **N**                                      |                                      |                               |
 |         | [NodeMailer](./npm_Modules/nodeMailer/)                 |     [npm nodemailer](https://www.npmjs.com/package/nodemailer)                                 |     [docs nodemailer](https://nodemailer.com/)                          |
 | **O**                                      |                                      |                               |
