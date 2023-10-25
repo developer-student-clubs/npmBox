@@ -63,7 +63,7 @@ So, What are you waiting for? 🤔
 | **I**                                      |                                      |                               |
 |           | [is-URL](./npm_Modules/isURL/)                                 |    [npm_is-url](https://www.npmjs.com/package/is-url?activeTab=readme)                                   |                               | 
 | **J**                                      |                                      |                               |
-|         | [Jsonwebtoken](./npm_Modules/jsonwebtoken/)            |     [npm Jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)                                 |                               |
+|         | [Jsonwebtoken](./npm_Modules/jsonwebtoken/)            |     [npm Jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)                                 |     [docs jsonwebtoken](https://jwt.io/libraries)                          |
 | **K**                                      |                                      |                               |
 | **L**                                      |                                      |                               |
 |         | [Lodash](./npm_Modules/Lodash/)                        |     [npm lodash](https://www.npmjs.com/package/@types/lodash)                                 |     [docs Lodash](https://lodash.com/)                          |
@@ -76,23 +76,23 @@ So, What are you waiting for? 🤔
 | **N**                                      |                                      |                               |
 |         | [NodeMailer](./npm_Modules/nodeMailer/)                 |     [npm nodemailer](https://www.npmjs.com/package/nodemailer)                                 |     [docs nodemailer](https://nodemailer.com/)                          |
 | **O**                                      |                                      |                               |
-|         | [ora](./npm_Modules/ora/)                               |     [npm ora](https://www.npmjs.com/package/ora)                                 |                               |
+|         | [ora](./npm_Modules/ora/)                               |     [npm ora](https://www.npmjs.com/package/ora)                                 |    [docs ora](https://www.tabnine.com/code/javascript/modules/ora)                           |
 | **P**                                      |                                      |                               |
-|         | [Password-Validator](./npm_Modules/password-validator/) |                                      |                               |
+|         | [Password-Validator](./npm_Modules/password-validator/) |     [npm password-validator](https://www.npmjs.com/package/password-validator)                                 |     [docs password-validator](https://snyk.io/advisor/npm-package/password-validator)                          |
 |         | [Prisma](./npm_Modules/prisma/)                        |     [npm prisma](https://www.npmjs.com/package/prisma)                                 |     [docs prisma](https://www.prisma.io/docs)                          |
 | **Q**                                      |                                      |                               |
 | **R**                                      |                                      |                               |
 |         | [Router](./npm_Modules/Router/)                        |     [npm router](https://www.npmjs.com/package/router)                                 |                               |
 |         | [RxJS](./npm_Modules/RxJS/)                            |    [npm rxjs](https://www.npmjs.com/package/rxjs)                                  |     [docs rxjs](https://rxjs.dev/guide/installation)                          |
 | **S**                                      |                                      |                               |
-|         | [Socket](./npm_Modules/Socket/)                        |     [npm socket](https://www.npmjs.com/package/socket.io)                                 |                               |
+|         | [Socket](./npm_Modules/Socket/)                        |     [npm socket](https://www.npmjs.com/package/socket.io)                                 |     [docs socket](https://socket.io/docs/v4/)                          |
 |         | [ShellJs](./npm_Modules/ShellJs/)                      |   [npm ShellJs](https://www.npmjs.com/package/shelljs)    |    [docs ShellJs](https://github.com/shelljs/shelljs)    |
 | **T**                                      |                                      |                               |
 |         | [TailWindCSS](./npm_Modules/tailwindcss/)              |     [npm tailwindcss](https://www.npmjs.com/package/tailwindcss)                                 |     [docs tailwindcss](https://tailwindcss.com/docs/installation)                          |
 |         | [Toastify](./npm_Modules/Toastify/)                    |      [npm toastify](https://www.npmjs.com/package/react-toastify)                                |                               |
 | **U**                                      |                                      |                               |
 |         | [Uid](./npm_Modules/Uid/)                              | [npm Uid](https://www.npmjs.com/package/uid)    | [Doc Uid](https://github.com/lukeed/uid) |
-|         | [URL](./npm_Modules/URL/)                              |                                      |                               |
+|         | [URL](./npm_Modules/URL/)                              |     [npm url](https://www.npmjs.com/package/url)                                 |     [docs url](https://nodejs.org/api/url.html)                          |
 | **V**                                      |                                      |                               |
 |         | [Validator](./npm_Modules/Validator/)                  |     [npm validator](https://www.npmjs.com/package/validator)                                 |                               |
 | **W**                                      |                                      |                               |
