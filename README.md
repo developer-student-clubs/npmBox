@@ -48,6 +48,7 @@ So, What are you waiting for? 🤔
 |         | [Chalk](./npm_Modules/chalk/)                          |     [npm Chalk](https://www.npmjs.com/package/chalk)                           |   [docs Chalk](https://github.com/chalk/chalk)                              |
 | **D**                                      |                                      |                               |
 |         | [Debug](./npm_Modules/debug/)                           |    [npm Debug](https://www.npmjs.com/package/debug)                                 |                               |
+|                                | [Date-fns](./npm_Modules/date-fns/)                                  | [npm date-fns](https://www.npmjs.com/package/date-fns?activeTab=readme) |        [doc](https://date-fns.org/docs/Getting-Started/)                               |
 | **E**                                      |                                      |                               |
 |         | [Express](./npm_Modules/Express/)                      |     [npm Express](https://www.npmjs.com/package/express)                                 |    [docs Express](https://expressjs.com/)                           |
 |         | [Express/Router](./npm_Modules/Router/)                 |    [npm Express/Router](https://www.npmjs.com/package/express-router)                                  |     [docs Express/Router](https://expressjs.com/en/guide/routing.html)                          |
